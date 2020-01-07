@@ -8,10 +8,10 @@ import pandas as pd
 import random
 
 """
-The most wished books was parsed from Amazon amazon.com/gp/most-wished-for/books. 
+The most wished books were parsed from Amazon amazon.com/gp/most-wished-for/books. 
 You can download it from my GitHub  
 https://github.com/Evdokimoff/onemonth_python/blob/master/https___www.amazon.com_gp_most.xlsx 
-and then put it in the directory where you trying run the script.
+and then put it in the directory where you trying to run the script.
 """
 
 file = "https___www.amazon.com_gp_most.xlsx"
