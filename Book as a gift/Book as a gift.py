@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
 
 """This script takes the name of your friend 
 and suggest you gift him the book 
@@ -24,4 +22,3 @@ friend_name = input("Please enter the name of your friend: ")
 print(f"What book you can gift to {friend_name}?")
 print(f"You can gift to {friend_name} the book {random_books}")
 #We can also add to this result the link to buy
-

@@ -31,4 +31,3 @@ if extra_question == "yes" or "YES" or "Yes": #indentifying user's wish to extra
     print(f"You will be the greatest if tip ${extra_tip:.0f}") #showing the recommended tip for user
 else: #if user don't want to extra tip, we return the regular tip
     print(f"Ok. You should tip ${tip:.0f}") #showing the recommended tip for user
-
