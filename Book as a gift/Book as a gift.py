@@ -11,7 +11,7 @@ import random
 
 """The most wished books were parsed from Amazon amazon.com/gp/most-wished-for/books.
 You can download it from my GitHub
-https://github.com/Evdokimoff/onemonth_python/blob/master/amazon_most_wished_books100_122019.xlsx
+https://github.com/Evdokimoff/onemonth_python/blob/master/Book%20as%20a%20gift/amazon_most_wished_books100_122019.xlsx
 and then put it in the directory where you trying run the script."""
 
 file = "amazon_most_wished_books100_122019.xlsx"
